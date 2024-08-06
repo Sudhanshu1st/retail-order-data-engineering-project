@@ -27,7 +27,15 @@ The data is extracted using the Kaggle API. The script connects to Kaggle, downl
 ### Load Data
 The cleaned and transformed data is loaded into a MySQL database for further analysis.
 - **Script**: `Mysqlscript.sql`
-- 
+  
+Also written some complex queries to calculate:
+- Find top 10 highest revenue generating products
+- Top 5 selling products in each regions
+- MONTH OVER MONTH GROWTH COMPARISION FOR 2022 AND 2023 SALES eg: JAN 2022 V/S 2023
+- MONTH OVER MONTH GROWTH COMPARISION FOR 2022 AND 2023 SALES eg: JAN 2022 V/S 2023
+- FOR EACH CATEGORY WHICH MONTH HAD HIGHEST SALES
+- Which subcategory had highest growth by profit in 2023 compared to 2022
+  
 ### Transform Data
 Pandas is used to clean the data, add new features, and prepare it for loading into MySQL.
 
