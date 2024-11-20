@@ -1,7 +1,7 @@
 # Retail Data Engineering Project
 
 ## Introduction
-This project delves into the world of retail data analytics using modern data engineering practices. We'll leverage tools like Pandas for data manipulation, MySQL for data warehousing, and Power BI for data visualization.
+I have used a Retail store data to clean, preprocess and get insights on the business. I leverage tools like Pandas for data manipulation, MySQL for data warehousing, and Power BI for data visualization.
 
 ## Architecture
 
